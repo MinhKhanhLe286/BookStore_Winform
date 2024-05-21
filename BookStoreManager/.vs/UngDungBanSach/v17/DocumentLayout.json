@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\formregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:formregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormRegisterAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:FormRegisterAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:FormCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\btl\\bookstoremanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\BTL\\BookStoreManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\formgiohanguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:formgiohanguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\formgiohanguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:formgiohanguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|D:\\workspace\\CShap\\UngDungBanSach\\FormUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:FormUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|d:\\workspace\\cshap\\ungdungbansach\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B3E9E-30A0-4CE9-9D34-FF6F22C2ABCC}|UngDungBanSach.csproj|solutionrelative:dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 737dc03654b86573ca939b66cbebe151eaec4686
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAuwAwBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:00:21.598Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+=======
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+>>>>>>> 737dc03654b86573ca939b66cbebe151eaec4686
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "FormRegisterAccount.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormRegisterAccount.cs",
+              "RelativeDocumentMoniker": "FormRegisterAccount.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormRegisterAccount.cs",
+              "RelativeToolTip": "FormRegisterAccount.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:53:31.517Z",
+=======
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAewE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:30:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:30:30.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:24:42.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAjwFgBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:53:04.384Z",
+>>>>>>> 737dc03654b86573ca939b66cbebe151eaec4686
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "FormRegisterAccount.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormRegisterAccount.cs",
+              "RelativeDocumentMoniker": "FormRegisterAccount.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormRegisterAccount.cs [Design]",
+              "RelativeToolTip": "FormRegisterAccount.cs [Design]",
+=======
+              "DocumentIndex": 3,
+              "Title": "FormGioHangUser.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\FormGioHangUser.cs",
+              "RelativeDocumentMoniker": "FormGioHangUser.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\FormGioHangUser.cs",
+              "RelativeToolTip": "FormGioHangUser.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAewDAAAAAmAAAA",
+>>>>>>> 737dc03654b86573ca939b66cbebe151eaec4686
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:51:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGioHangUser.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\FormGioHangUser.cs",
+              "RelativeDocumentMoniker": "FormGioHangUser.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\FormGioHangUser.cs [Design]",
+              "RelativeToolTip": "FormGioHangUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:30:49.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+              "Title": "FormCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "FormCustomer.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormCustomer.cs [Design]*",
+              "RelativeToolTip": "FormCustomer.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:13:12.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCustomer.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "FormCustomer.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\FormCustomer.cs*",
+              "RelativeToolTip": "FormCustomer.cs*",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:44:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:08:34.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\UngDungBanSach\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:16:12.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIA5wEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:16:14.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\workspace\\CShap\\BTL\\BookStoreManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:31:11.572Z"
+=======
+              "DocumentIndex": 6,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\FormUser.cs",
+              "RelativeDocumentMoniker": "FormUser.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\FormUser.cs",
+              "RelativeToolTip": "FormUser.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAWwJ4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:18:45.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\FormUser.cs",
+              "RelativeDocumentMoniker": "FormUser.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\FormUser.cs [Design]",
+              "RelativeToolTip": "FormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:27:38.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\workspace\\CShap\\UngDungBanSach\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataProvider.cs",
+              "ToolTip": "D:\\workspace\\CShap\\UngDungBanSach\\DataProvider.cs",
+              "RelativeToolTip": "DataProvider.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:25:26.553Z",
+              "EditorCaption": ""
+>>>>>>> 737dc03654b86573ca939b66cbebe151eaec4686
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
